@@ -1,2 +1,4 @@
 # Ethical-Hacking-with-Python
- Some basic Python codes which I worked on while completing EC-Council's Certification course.
+1.Some basic Python codes which I've been worked on while completing EC-Council's Certification course.
+2.Add dictionary.txt for bruteforcing codes which contains the password list.
+(You can find passlists online)
